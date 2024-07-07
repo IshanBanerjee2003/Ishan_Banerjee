@@ -1,44 +1,45 @@
-# vCard - Personal portfolio
+# Ishan_Banerjee - Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+The following is a fully responsive personal portfolio website designed to highlight your professional journey, showcase your projects, and present your skills and experiences in an elegant and organized manner. Built with HTML, CSS, and JavaScript, this website adapts seamlessly across various devices, ensuring an optimal viewing experience on desktops, tablets, and smartphones.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## Features
 
-## Demo
+- **Modern and Clean Design**: A sleek and contemporary layout that emphasizes clarity and usability.
+- **Responsive Layout**: A design that automatically adjusts to different screen sizes, providing a consistent user experience on all devices.
+- **Easy Customization**: Straightforward HTML, CSS, and JavaScript files that are simple to modify to fit your personal branding.
+- **Comprehensive Sections**: Dedicated sections for About Me, Projects, Skills, and Contact, giving a complete overview of your professional profile.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Prerequisites
+## Getting Started
 
-Before you begin, ensure you have met the following requirements:
+### Prerequisites
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+Ensure you have the following software installed on your system:
 
-## Installing vCard
+- [Git](https://git-scm.com/downloads "Download Git")
 
-To install **vCard**, follow these steps:
+### Installation
 
-Linux and macOS:
+Follow these steps to set up **AbOuT_Me** on your local machine:
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
+#### Linux and macOS:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/yourusername/AbOuT_Me.git
+```
+### Windows:
+```bash
+git clone https://github.com/yourusername/AbOuT_Me.git
 ```
 
-## Contact
+Navigate to the project directory and open index.html in your preferred browser to view the site.
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+### Usage
 
-## License
+Customize the content by editing the HTML files. Modify the styles in the CSS files to match your personal branding. Add your own projects and experiences to make the portfolio truly yours.
 
-MIT
+### Contact
+
+For any questions or feedback, feel free to reach out:
+
+Email: isbanerjee@ucsd.edu
